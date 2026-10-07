@@ -16,6 +16,5 @@ Projeyi GitHub üzerinden inceleyebilirsiniz.
 ## Lisans
 Bu proje eğitim amaçlı hazırlanmıştır.
 
-#AKIŞ ŞEMASI
-
+# AKIŞ ŞEMASI
 <img width="212" height="552" alt="Başlıksız Diyagram drawio" src="https://github.com/user-attachments/assets/98fd9126-59b5-4c8f-9a7d-52fc8868f05e" />
