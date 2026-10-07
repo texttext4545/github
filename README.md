@@ -17,4 +17,4 @@ Projeyi GitHub üzerinden inceleyebilirsiniz.
 Bu proje eğitim amaçlı hazırlanmıştır.
 
 #AKIŞ ŞEMASI
-<img width="841" height="552" alt="Başlıksız Diyagram drawio" src="https://github.com/user-attachments/assets/57af65aa-5fbc-4d6d-b456-f5023d34b409" />
+<img width="212" height="552" alt="Başlıksız Diyagram drawio" src="https://github.com/user-attachments/assets/98fd9126-59b5-4c8f-9a7d-52fc8868f05e" />
